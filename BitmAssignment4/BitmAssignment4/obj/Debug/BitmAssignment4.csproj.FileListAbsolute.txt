@@ -1,0 +1,10 @@
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\bin\Debug\BitmAssignment4.exe.config
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\bin\Debug\BitmAssignment4.exe
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\bin\Debug\BitmAssignment4.pdb
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.csprojAssemblyReference.cache
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.Form1.resources
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.Properties.Resources.resources
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.csproj.GenerateResource.cache
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.csproj.CoreCompileInputs.cache
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.exe
+E:\BITM\Day4\BitmAssignment4\BitmAssignment4\obj\Debug\BitmAssignment4.pdb
